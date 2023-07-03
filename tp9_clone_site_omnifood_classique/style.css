@@ -1,9 +1,14 @@
+
+/* end media queries */
 div.scrollmenu {
-  background-color: #fdf2e9;
+  /* background-color: #fdf2e9; */
   overflow: auto;
-  white-space: nowrap;
+  /* white-space: nowrap; */
   position: relative;
   /* left: 200px; */
+}
+.a_plan{
+  background-color: #fdf2e9;
 }
 
 .scrollmenu>a {
@@ -63,7 +68,6 @@ div.scrollmenu a:hover {
 /* section .flex-container */
 .flex-container {
   display: flex;
-  background-color: #fdf2e9;
 
 }
 
