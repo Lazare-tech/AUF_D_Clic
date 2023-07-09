@@ -23,7 +23,13 @@
     
 
 }
-
+.nav-link{
+    color: white;
+    font-size: 2rem;
+}
+.menu{
+    background: linear-gradient(90deg, rgba(20,17,22,1) 0%, rgba(59,73,62,1) 100%, rgba(0,212,255,1) 100%); 
+}
 .navbar-collapse {
     flex-basis: 100%;
     flex-grow: 1;
